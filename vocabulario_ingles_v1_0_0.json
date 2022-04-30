@@ -9,5 +9,16 @@
        "som":null
      }
     ]
-  }
+  },
+  {
+    "palavra":"Country",
+    "som":null,
+    "traducoes":["País"],
+    "frases":[
+     {
+       "frase": "What COUNTRY do you live?"
+       "som":null
+     }
+    ]
+  }  
 ]

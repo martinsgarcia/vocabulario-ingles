@@ -1,11 +1,13 @@
-{
- "palavra":"City",
- "som":null,
- "traducoes":["Cidade"],
- "frases":[
-   {
-     "frase": "which CITY do you live?"
-     "som":null
-   }
- ]
-}
+[
+  {
+    "palavra":"City",
+    "som":null,
+    "traducoes":["Cidade"],
+    "frases":[
+     {
+       "frase": "which CITY do you live?"
+       "som":null
+     }
+    ]
+  }
+]
